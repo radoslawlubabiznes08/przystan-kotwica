@@ -1,1 +1,0 @@
-- [GitHub sync fallback](github-sync-fallback.md) — GitHub OAuth may allow REST writes while Git CLI push remains unauthenticated; use incremental Git Data API trees.
