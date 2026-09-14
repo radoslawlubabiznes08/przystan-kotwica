@@ -1,0 +1,72 @@
+# Prompt: Strona internetowa – Przystań Kotwica
+
+Skopiuj poniższy tekst i wklej do narzędzia budującego stronę (np. generatora AI, Webflow AI, itp.).
+
+---
+
+## PROMPT
+
+Zbuduj profesjonalną, estetyczną stronę internetową typu **jednostronicowa (one-page) landing page** dla firmy **"Przystań Kotwica"** — przystani nad Zalewem Rybnickim w Rybniku, która łączy dwie działalności: **wypożyczalnię sprzętu wodnego** (główny nacisk, ok. 70% treści) oraz **wędzarnię ryb i wędlin** (dodatkowa, uzupełniająca sekcja, ok. 30% treści).
+
+### Styl i klimat
+- Styl **kinematyczny (cinematic)**: duże, pełnoekranowe zdjęcia/wideo w tle sekcji hero, subtelny parallax przy scrollowaniu, płynne przejścia (fade-in, slide-up) między sekcjami.
+- Paleta kolorów nawiązująca do wody i zachodu słońca: głębokie granaty i błękity (woda, niebo) w połączeniu z ciepłymi odcieniami pomarańczu i bursztynu (zachód słońca, drewno, wędzarnia).
+- Elegancka, nowoczesna typografia: nagłówki szeryfowe lub half-serif (klimat "premium marina"), tekst czytelny, sans-serif.
+- Dużo "oddechu" (whitespace), minimalistyczny układ, zdjęcia jako bohaterowie strony — tekst uzupełnia obraz, nie odwrotnie.
+- Delikatne animacje wody/fal jako subtelny motyw graficzny (np. linia falująca jako separator sekcji).
+
+### Struktura strony
+
+**1. Hero (pełny ekran)**
+- Tło: wideo lub zdjęcie zachodu słońca nad zalewem z widoczną przystanią, łodziami i charakterystyczną elektrownią w tle (uchwycone złote/różowe światło zachodzącego słońca odbite w wodzie).
+- Duży napis: "Przystań Kotwica" + slogan, np. "Twoja przygoda zaczyna się nad wodą" lub "Wypożyczalnia sprzętu wodnego nad Zalewem Rybnickim".
+- Przycisk CTA: "Zarezerwuj sprzęt" / "Sprawdź ofertę".
+- Delikatny scroll-indicator na dole.
+
+**2. O nas**
+- Krótki, ciepły opis miejsca: rodzinna przystań nad Zalewem Rybnickim, miejsce rekreacji, wypoczynku i dobrego jedzenia.
+- Zdjęcie tarasu z czerwonymi parasolami i widokiem na zalew o zachodzie słońca (klimatyczne, kameralne ujęcie).
+
+**3. Wypożyczalnia sprzętu wodnego (sekcja główna, najbardziej rozbudowana)**
+- Nagłówek: "Wypożyczalnia sprzętu wodnego".
+- Siatka/karuzela kart z ofertą:
+  - Rowery wodne (czerwone, rodzinne, 4-osobowe) — zdjęcie rzędu czerwonych rowerków wodnych przy pomoście.
+  - Motorówki bez patentu — zdjęcie białej motorówki przycumowanej przy pomoście.
+  - Kajaki — zdjęcie czerwonego kajaka na pomoście.
+  - Żaglówki / miejsca cumownicze dla jachtów w tle.
+- Dla każdej pozycji: nazwa, krótki opis, cena za godzinę (placeholder do uzupełnienia), przycisk "Zarezerwuj".
+- Zdjęcie w tle sekcji: widok na marinę z pomostami, żaglówkami i sprzętem wodnym o różnych porach dnia (burzowe niebo dla dramatyzmu, spokojny zachód słońca dla klimatu).
+- Krótka informacja praktyczna: godziny otwarcia, lokalizacja (Rudzka 244a, Rybnik), kontakt telefoniczny.
+
+**4. Wędzarnia (sekcja mniejsza, uzupełniająca)**
+- Nagłówek: "Nasza Wędzarnia".
+- Krótki opis: tradycyjnie wędzone ryby i wędliny, przygotowywane na miejscu, do spróbowania na tarasie z widokiem na wodę.
+- Zdjęcie: wnętrze wędzarni — złociste wędzone ryby i wędliny wiszące w dymie (zdjęcie podzielone na dwie części: wędliny w siatce i ryby).
+- Krótkie CTA: "Spróbuj u nas" / link do menu lub kontaktu.
+
+**5. Galeria**
+- Siatka zdjęć (masonry lub grid) prezentująca atmosferę miejsca o różnych porach dnia: zachód słońca nad elektrownią i zalewem, burzowe niebo nad mariną, taras z parasolami, sprzęt wodny, wędzarnia.
+- Lekki efekt hover (powiększenie/przyciemnienie) na miniaturach.
+
+**6. Lokalizacja i kontakt**
+- Mapa (Google Maps embed) z lokalizacją: Rudzka 244a, 44-292 Rybnik.
+- Godziny otwarcia w przejrzystej tabeli (pon–pt 12:00–21:00, sob 10:00–23:00, niedz 10:00–21:00).
+- Dane kontaktowe: telefon 501 593 893, link do Facebooka.
+- Przycisk "Wyznacz trasę".
+
+**7. Stopka**
+- Logo/nazwa, social media, krótkie dane kontaktowe, copyright.
+
+### Wymagania techniczne i jakościowe
+- Strona w pełni responsywna (RWD), dopracowana zarówno na desktopie, jak i mobile.
+- Płynne animacje scrollowania (np. reveal on scroll), bez przesady — elegancko, nie "cyrkowo".
+- Zoptymalizowane, ostre zdjęcia w wysokiej jakości, dobrze skadrowane (bez naciągania proporcji).
+- Spójna kolorystyka na całej stronie — motyw wody i zachodu słońca jako wspólny mianownik.
+- Czytelna hierarchia informacji: wypożyczalnia jako priorytet, wędzarnia jako miły dodatek.
+- Strona ma wyglądać profesjonalnie i "gotowo" — bez potrzeby dalszych poprawek: dopracowane odstępy, wyrównania, kontrast tekstu na tle zdjęć (użyj przyciemnionych nakładek/gradientów pod tekstem dla czytelności).
+- Wykorzystaj dostarczone zdjęcia i materiał wideo jako główne assety wizualne strony (hero w tle jako wideo z zachodem słońca nad przystanią, pozostałe zdjęcia w sekcjach galerii i ofert).
+
+---
+
+### Wskazówka
+Jeśli narzędzie, którego używasz, pozwala na wgranie plików — dołącz przesłane zdjęcia (przystań o zachodzie słońca, rowerki wodne, motorówka, kajak, taras z parasolami, burzowe niebo nad mariną, wędzarnia z rybami i wędlinami) oraz plik wideo jako materiał źródłowy do wygenerowania grafik/tła strony.
